@@ -1,0 +1,2 @@
+# singlestore-kai-vectorsearch-example
+ 
